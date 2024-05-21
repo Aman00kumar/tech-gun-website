@@ -1,0 +1,19 @@
+.nav-bar{
+    height:100px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 1) !important;
+ 
+    font-weight: 400; 
+}
+
+.carousel-inner{
+    background-color: black!important;
+}
+
+.carousel-items img{
+size:10px;
+}
+ .col-md-5 img{
+    background-color:black!important;
+ }
